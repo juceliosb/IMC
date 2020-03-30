@@ -3,7 +3,11 @@
  </h1>
 
 # ÍNDICE DE MASSA CORPÓREA
-
+<p align="center">
+    <a href="LICENSE" target="_blank">
+        <img alt="Software License" src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square">
+    </a>
+</p>
 
 ## Getting Started
 1. Instale o Dart SDK para linux usando apt-get no momento versão estável 2.7.2.
