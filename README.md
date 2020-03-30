@@ -1,2 +1,3 @@
-# IMC
-Calculo de Índice de Massa Corpórea com Dart
+<h1 align="center">
+  IMC-ÍNDICE DE MASSA CORPÓREA
+</h1>
