@@ -6,7 +6,7 @@
 
 
 ## Getting Started
-1. Instale o Dart SDK para linux usando apt-get.
+1. Instale o Dart SDK para linux usando apt-get no momento versão estável 2.7.2.
 ``` bash
 # Baixando o Dart SDK 
 $  sudo apt-get update
