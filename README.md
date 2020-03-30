@@ -3,7 +3,19 @@
  </h1>
 
 # ÍNDICE DE MASSA CORPÓREA
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/juceliosb/bookstore-api?color=%2304D361">
 
+  <a href="https://github.com/nelsondiaas">
+    <img alt="Made by @nelsondiaas" src="https://img.shields.io/badge/made%20by-%40nelsondiaas-%2304D361">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+
+  <a href="https://github.com/nelsondiaas/bookstore-api/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/nelsondiaas/bookstore-api?style=social">
+  </a>
+</p>
 
 ## Getting Started
 1. Instale o Dart SDK para linux usando apt-get no momento versão estável 2.7.2.
