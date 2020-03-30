@@ -1,4 +1,5 @@
 <h1 align="center">
-  #IMC
-  ÍNDICE DE MASSA CORPÓREA
-</h1>
+  IMC
+ </h1>
+  #ÍNDICE DE MASSA CORPÓREA
+  
