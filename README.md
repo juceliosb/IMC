@@ -12,7 +12,7 @@
 ## Getting Started
 1. Instale o Dart SDK para linux usando apt-get no momento versão estável 2.7.2.
 ``` bash
-# Baixando o Dart SDK 
+Baixando o Dart SDK 
 $  sudo apt-get update
 $  sudo apt-get install apt-transport-https
 $  sudo sh -c 'wget -qO- https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add -'
